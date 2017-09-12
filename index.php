@@ -14,7 +14,7 @@
 		</div>
 
 		<div class="image container">
-			<img class ="resize" src="/images/Profpic.jpg" alt="Jacob Lewis"/>
+			<img class ="resize" src="images/Profpic.jpg" alt="Jacob Lewis"/>
 		</div>
 		
 		<h2 class="text-center">About Me</h2>
