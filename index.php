@@ -21,7 +21,7 @@
 			<h2>About Me</h2>
 			<div class="aboutMe">
 				<p>
-					Hello, my name is Jacob Lewis, but I generally go by the nane 'Jack'.
+					Hello, my name is Jacob Lewis, but I generally go by the name 'Jack'.
 						
 					I was born in New York City, and I went to college at Wesleyan University where I majored in Physics and Music. 
 						
