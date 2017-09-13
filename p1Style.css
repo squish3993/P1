@@ -1,30 +1,20 @@
 h1, h2, h3 {
-	text-shadow: 2px 2px 5px grey
+	text-shadow: 2px 2px 5px grey;
+	text-align:center;
 }
 
-img.resize {
-	max-width: 40%;
-	max-height: 40%;
-
+.container {
+	text-align: center;
+	width: 50%;
+	min-width: 600px;
 }
 
-.image {
-	margin-left: 600px;
-}
-
-h2{
-	margin-top: 50px;
-}
-
-.aboutMe {
-	padding-right: 200px;
-	padding-left: 200px;
+img {
+	display: block;
+	margin: auto;
+	width:50%;
 }
 
 h3, .quote {
 	font-style: italic;
-}
-
-.quote{
-	font-size: 20px;
 }
