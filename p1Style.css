@@ -1,20 +1,24 @@
+/* Creates shadow and aligns text in center for all headings */
 h1, h2, h3 {
 	text-shadow: 2px 2px 5px grey;
 	text-align:center;
 }
 
+/* centers the website and keeps it contained */
 .container {
 	text-align: center;
 	width: 50%;
 	min-width: 600px;
 }
 
+/* keeps the image in place and sizes it */
 img {
 	display: block;
 	margin: auto;
 	width:50%;
 }
 
+/* italics for PHP quotes */
 h3, .quote {
 	font-style: italic;
 }
